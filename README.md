@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -80,3 +81,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 =======
 # RENT_CAR-ORGANIZA-AO
 >>>>>>> d4fc45807ed86b725fbe29fbd185cfdb2bcc1dc3
+=======
+# Angocars
+>>>>>>> dd33d5942b59c1f5ddf5be94f6100bbbb3985719
